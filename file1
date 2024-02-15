@@ -1,0 +1,35 @@
+  475  git clone https://github.com/mallika1988/batch61.git
+  476  ls
+  477  cd batch61
+  478  ls
+  479  git statu
+  480  git status
+  481  touch file2
+  482  git status
+  483  git add .
+  484  git status
+  485  git commit -m"practice1"
+  486  git log
+  487  git push
+  488  ls
+  489  cd batch61
+  490  ls
+  491  touch file3
+  492  git status
+  493  git add .
+  494  git status
+  495  git commit -m"practice32
+  496  git commit -m"practice3"
+  497  git log
+  498  git push
+  499  ls
+  500  cd batch61
+  501  ls
+  502  touch file4
+  503  git status
+  504  git add .
+  505  git status
+  506  git commit -m"practice4"
+  507  git log
+  508  git push
+  509  history
